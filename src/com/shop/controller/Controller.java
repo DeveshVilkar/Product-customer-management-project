@@ -42,7 +42,7 @@ public class Controller {
                             }
                             break;
                         case 2:
-                            //                    for product table
+                            //                    for customer table
                             System.out.println("enter the id :");
                             int custid=sc.nextInt();
                             customer.setId(custid);
